@@ -23,6 +23,14 @@
       "quantity": 900,
       "selected": true,
       "available": true
+    },
+    {
+      "id": 4,
+      "name": "laptop",
+      "price": 5000,
+      "quantity": 250,
+      "selected": true,
+      "available": true
     }
   ]
 }
